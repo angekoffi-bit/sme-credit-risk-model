@@ -1,4 +1,3 @@
-# sme-credit-risk-model
 # SME Credit Risk Prediction  
 *Can we reliably identify high-risk loans using business financials?*  
 
